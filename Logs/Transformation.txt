@@ -1,0 +1,41 @@
+2021-12-31--00:59:45--Transforming columns ['rest_type', 'cuisines', 'dish_liked'] 
+2021-12-31--00:59:45--Dropping Duplicates 
+2021-12-31--00:59:45--Encoding categorical variable and saving it to Mongodb 
+2021-12-31--21:36:09--Transforming columns ['rest_type', 'cuisines', 'dish_liked'] 
+2021-12-31--21:36:09--Dropping Duplicates 
+2021-12-31--21:36:09--Encoding categorical variable and saving it to Mongodb 
+2021-12-31--23:07:03--Error while converting columns to float type 
+2021-12-31--23:07:03--Error in encoding 
+2021-12-31--23:07:03--Error in Data Scaling 
+2021-12-31--23:12:14--Error while converting columns to float type 
+2021-12-31--23:12:14--Error in encoding 
+2021-12-31--23:12:14--Error in Data Scaling 
+2021-12-31--23:12:35--Error while converting columns to float type 
+2021-12-31--23:12:35--Error in encoding 
+2021-12-31--23:12:35--Error in Data Scaling 
+2021-12-31--23:12:53--Error while converting columns to float type 
+2021-12-31--23:12:53--Error in encoding 
+2021-12-31--23:12:53--Error in Data Scaling 
+2021-12-31--23:13:32--Error while converting columns to float type 
+2021-12-31--23:13:32--Error in encoding 
+2021-12-31--23:13:32--Error in Data Scaling 
+2021-12-31--23:14:17--Error while converting columns to float type 
+2021-12-31--23:14:17--Error in encoding 
+2021-12-31--23:17:36--Error while converting columns to float type 
+2021-12-31--23:17:36--Error in encoding 
+2021-12-31--23:17:36--Error in Data Scaling 
+2021-12-31--23:18:03--Error while converting columns to float type 
+2021-12-31--23:18:03--Error in encoding 
+2021-12-31--23:18:03--Error in Data Scaling 
+2021-12-31--23:19:00--Error while converting columns to float type 
+2021-12-31--23:20:04--Error while converting columns to float type 
+2021-12-31--23:20:04--Error in encoding 
+2021-12-31--23:20:23--Error while converting columns to float type 
+2021-12-31--23:55:10--Transforming columns ['rest_type', 'cuisines', 'dish_liked'] 
+2021-12-31--23:55:10--Dropping Duplicates 
+2021-12-31--23:56:56--Transforming columns ['rest_type', 'cuisines', 'dish_liked'] 
+2021-12-31--23:56:56--Dropping Duplicates 
+2021-12-31--23:56:56--Encoding categorical variable and saving it to Mongodb 
+2021-12-31--23:58:02--Transforming columns ['rest_type', 'cuisines', 'dish_liked'] 
+2021-12-31--23:58:02--Dropping Duplicates 
+2021-12-31--23:58:02--Encoding categorical variable and saving it to Mongodb 

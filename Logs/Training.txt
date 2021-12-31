@@ -1,0 +1,121 @@
+2021-12-31--00:59:45--Started Training 
+2021-12-31--00:59:45--Splitting Dataset 
+2021-12-31--00:59:45--Started Initializing models 
+2021-12-31--00:59:45--Starting initialize model method 
+2021-12-31--00:59:45--Finished initializing model 
+2021-12-31--00:59:45--Finished Initializing models 
+2021-12-31--00:59:45--Starting best Model search 
+2021-12-31--00:59:45--Finding best model 
+2021-12-31--00:59:45--Initilizaing grid object 
+2021-12-31--00:59:45--Fitting data to Grid 
+2021-12-31--00:59:45--Initilizaing grid object 
+2021-12-31--00:59:45--Fitting data to Grid 
+2021-12-31--00:59:45--Initilizaing grid object 
+2021-12-31--00:59:45--Fitting data to Grid 
+2021-12-31--00:59:45--Finished Model search 
+2021-12-31--00:59:45--Saving best model 
+2021-12-31--21:45:01--Started Training 
+2021-12-31--21:45:01--Splitting Dataset 
+2021-12-31--21:45:01--Started Initializing models 
+2021-12-31--21:45:01--Starting initialize model method 
+2021-12-31--21:45:01--Finished initializing model 
+2021-12-31--21:45:01--Finished Initializing models 
+2021-12-31--21:45:01--Starting best Model search 
+2021-12-31--21:45:01--Finding best model 
+2021-12-31--21:45:01--Initializing grid object 
+2021-12-31--21:45:01--Fitting data to Grid 
+2021-12-31--21:45:01--Initializing grid object 
+2021-12-31--21:45:01--Fitting data to Grid 
+2021-12-31--21:45:01--Initializing grid object 
+2021-12-31--21:45:01--Fitting data to Grid 
+2021-12-31--21:45:01--Finished Model search 
+2021-12-31--21:45:01--Saving best model 
+2021-12-31--21:45:44--Started Training 
+2021-12-31--21:45:44--Splitting Dataset 
+2021-12-31--21:45:44--Started Initializing models 
+2021-12-31--21:45:44--Starting initialize model method 
+2021-12-31--21:45:44--Finished initializing model 
+2021-12-31--21:45:44--Finished Initializing models 
+2021-12-31--21:45:44--Starting best Model search 
+2021-12-31--21:45:44--Finding best model 
+2021-12-31--21:45:44--Initializing grid object 
+2021-12-31--21:45:44--Fitting data to Grid 
+2021-12-31--21:45:44--Initializing grid object 
+2021-12-31--21:45:44--Fitting data to Grid 
+2021-12-31--23:07:03--Started Training 
+2021-12-31--23:07:03--Error while training 
+2021-12-31--23:12:14--Started Training 
+2021-12-31--23:12:14--Error while training 
+2021-12-31--23:12:35--Started Training 
+2021-12-31--23:12:35--Error while training 
+2021-12-31--23:12:53--Started Training 
+2021-12-31--23:12:53--Error while training 
+2021-12-31--23:13:32--Started Training 
+2021-12-31--23:14:17--Started Training 
+2021-12-31--23:14:39--Started Training 
+2021-12-31--23:17:36--Started Training 
+2021-12-31--23:17:36--Error while training 
+2021-12-31--23:58:02--Started Training 
+2021-12-31--23:58:02--Splitting Dataset 
+2021-12-31--23:58:02--Started Initializing models 
+2021-12-31--23:58:02--Starting initialize model method 
+2021-12-31--23:58:02--Finished initializing model 
+2021-12-31--23:58:02--Finished Initializing models 
+2021-12-31--23:58:02--Starting best Model search 
+2021-12-31--23:58:02--Finding best model 
+2021-12-31--23:58:02--Initializing grid object 
+2021-12-31--23:58:02--Fitting data to Grid 
+2021-12-31--23:58:02--Initializing grid object 
+2021-12-31--23:58:02--Fitting data to Grid 
+2021-12-31--23:58:02--Initializing grid object 
+2021-12-31--23:58:02--Fitting data to Grid 
+2021-12-31--23:58:02--Finished Model search 
+2021-12-31--23:58:02--Saving best model 
+2021-12-31--23:58:34--Started Training 
+2021-12-31--23:58:34--Splitting Dataset 
+2021-12-31--23:58:34--Started Initializing models 
+2021-12-31--23:58:34--Starting initialize model method 
+2021-12-31--23:58:34--Finished initializing model 
+2021-12-31--23:58:34--Finished Initializing models 
+2021-12-31--23:58:34--Starting best Model search 
+2021-12-31--23:58:34--Finding best model 
+2021-12-31--23:58:34--Initializing grid object 
+2021-12-31--23:58:34--Fitting data to Grid 
+2021-12-31--23:58:34--Initializing grid object 
+2021-12-31--23:58:34--Fitting data to Grid 
+2021-12-31--23:58:34--Initializing grid object 
+2021-12-31--23:58:34--Fitting data to Grid 
+2021-12-31--23:58:34--Finished Model search 
+2021-12-31--23:58:34--Saving best model 
+2021-12-31--23:59:43--Started Training 
+2021-12-31--23:59:43--Splitting Dataset 
+2021-12-31--23:59:43--Started Initializing models 
+2021-12-31--23:59:43--Starting initialize model method 
+2021-12-31--23:59:43--Finished initializing model 
+2021-12-31--23:59:43--Finished Initializing models 
+2021-12-31--23:59:43--Starting best Model search 
+2021-12-31--23:59:43--Finding best model 
+2021-12-31--23:59:43--Initializing grid object 
+2021-12-31--23:59:43--Fitting data to Grid 
+2021-12-31--23:59:43--Initializing grid object 
+2021-12-31--23:59:43--Fitting data to Grid 
+2021-12-31--23:59:43--Initializing grid object 
+2021-12-31--23:59:43--Fitting data to Grid 
+2021-12-31--23:59:43--Finished Model search 
+2021-12-31--23:59:43--Saving best model 
+2022-01-01--00:00:03--Started Training 
+2022-01-01--00:00:03--Splitting Dataset 
+2022-01-01--00:00:03--Started Initializing models 
+2022-01-01--00:00:03--Starting initialize model method 
+2022-01-01--00:00:03--Finished initializing model 
+2022-01-01--00:00:03--Finished Initializing models 
+2022-01-01--00:00:03--Starting best Model search 
+2022-01-01--00:00:03--Finding best model 
+2022-01-01--00:00:03--Initializing grid object 
+2022-01-01--00:00:03--Fitting data to Grid 
+2022-01-01--00:00:03--Initializing grid object 
+2022-01-01--00:00:03--Fitting data to Grid 
+2022-01-01--00:00:03--Initializing grid object 
+2022-01-01--00:00:03--Fitting data to Grid 
+2022-01-01--00:00:03--Finished Model search 
+2022-01-01--00:00:03--Saving best model 

@@ -1,0 +1,107 @@
+2021-12-31--00:59:45--Uniting the Dataset 
+2021-12-31--00:59:45--Dropping Null values 
+2021-12-31--00:59:45--Dropping Columns 
+2021-12-31--00:59:45--Change column names 
+2021-12-31--21:36:08--Uniting the Dataset 
+2021-12-31--21:36:08--Dropping Null values 
+2021-12-31--21:36:08--Dropping Columns 
+2021-12-31--21:36:08--Change column names 
+2021-12-31--21:39:32--Uniting the Dataset 
+2021-12-31--23:07:02--Uniting the Dataset 
+2021-12-31--23:07:02--Dropping Null values 
+2021-12-31--23:07:02--Dropping Columns 
+2021-12-31--23:07:02--Change column names 
+2021-12-31--23:12:13--Uniting the Dataset 
+2021-12-31--23:12:13--Dropping Null values 
+2021-12-31--23:12:13--Dropping Columns 
+2021-12-31--23:12:13--Change column names 
+2021-12-31--23:12:35--Uniting the Dataset 
+2021-12-31--23:12:35--Dropping Null values 
+2021-12-31--23:12:35--Dropping Columns 
+2021-12-31--23:12:35--Change column names 
+2021-12-31--23:12:52--Uniting the Dataset 
+2021-12-31--23:12:52--Dropping Null values 
+2021-12-31--23:12:52--Dropping Columns 
+2021-12-31--23:12:52--Change column names 
+2021-12-31--23:13:31--Uniting the Dataset 
+2021-12-31--23:13:31--Dropping Null values 
+2021-12-31--23:13:31--Dropping Columns 
+2021-12-31--23:13:31--Change column names 
+2021-12-31--23:14:16--Uniting the Dataset 
+2021-12-31--23:14:16--Dropping Null values 
+2021-12-31--23:14:16--Dropping Columns 
+2021-12-31--23:14:16--Change column names 
+2021-12-31--23:14:38--Uniting the Dataset 
+2021-12-31--23:14:38--Dropping Null values 
+2021-12-31--23:14:38--Dropping Columns 
+2021-12-31--23:14:38--Change column names 
+2021-12-31--23:17:35--Uniting the Dataset 
+2021-12-31--23:17:35--Dropping Null values 
+2021-12-31--23:17:35--Dropping Columns 
+2021-12-31--23:17:35--Change column names 
+2021-12-31--23:18:02--Uniting the Dataset 
+2021-12-31--23:18:02--Dropping Null values 
+2021-12-31--23:18:02--Dropping Columns 
+2021-12-31--23:18:02--Change column names 
+2021-12-31--23:18:49--Uniting the Dataset 
+2021-12-31--23:18:59--Uniting the Dataset 
+2021-12-31--23:18:59--Dropping Null values 
+2021-12-31--23:18:59--Dropping Columns 
+2021-12-31--23:18:59--Change column names 
+2021-12-31--23:19:55--Uniting the Dataset 
+2021-12-31--23:20:03--Uniting the Dataset 
+2021-12-31--23:20:03--Dropping Null values 
+2021-12-31--23:20:03--Dropping Columns 
+2021-12-31--23:20:03--Change column names 
+2021-12-31--23:20:22--Uniting the Dataset 
+2021-12-31--23:20:22--Dropping Null values 
+2021-12-31--23:20:22--Dropping Columns 
+2021-12-31--23:20:22--Change column names 
+2021-12-31--23:20:56--Uniting the Dataset 
+2021-12-31--23:20:56--Dropping Null values 
+2021-12-31--23:20:56--Dropping Columns 
+2021-12-31--23:20:56--Change column names 
+2021-12-31--23:21:40--Uniting the Dataset 
+2021-12-31--23:21:40--Dropping Null values 
+2021-12-31--23:21:40--Dropping Columns 
+2021-12-31--23:21:40--Change column names 
+2021-12-31--23:23:23--Uniting the Dataset 
+2021-12-31--23:23:23--Dropping Null values 
+2021-12-31--23:23:23--Dropping Columns 
+2021-12-31--23:23:23--Change column names 
+2021-12-31--23:24:28--Uniting the Dataset 
+2021-12-31--23:24:28--Dropping Null values 
+2021-12-31--23:24:28--Dropping Columns 
+2021-12-31--23:24:28--Change column names 
+2021-12-31--23:26:33--Uniting the Dataset 
+2021-12-31--23:26:33--Dropping Null values 
+2021-12-31--23:26:33--Dropping Columns 
+2021-12-31--23:26:33--Change column names 
+2021-12-31--23:29:52--Uniting the Dataset 
+2021-12-31--23:29:52--Dropping Null values 
+2021-12-31--23:29:52--Dropping Columns 
+2021-12-31--23:29:52--Change column names 
+2021-12-31--23:30:34--Uniting the Dataset 
+2021-12-31--23:30:34--Dropping Null values 
+2021-12-31--23:30:34--Dropping Columns 
+2021-12-31--23:30:34--Change column names 
+2021-12-31--23:32:04--Uniting the Dataset 
+2021-12-31--23:32:04--Dropping Null values 
+2021-12-31--23:32:04--Dropping Columns 
+2021-12-31--23:32:04--Change column names 
+2021-12-31--23:52:49--Uniting the Dataset 
+2021-12-31--23:52:49--Dropping Null values 
+2021-12-31--23:52:49--Dropping Columns 
+2021-12-31--23:52:49--Change column names 
+2021-12-31--23:55:09--Uniting the Dataset 
+2021-12-31--23:55:09--Dropping Null values 
+2021-12-31--23:55:09--Dropping Columns 
+2021-12-31--23:55:09--Change column names 
+2021-12-31--23:56:55--Uniting the Dataset 
+2021-12-31--23:56:55--Dropping Null values 
+2021-12-31--23:56:55--Dropping Columns 
+2021-12-31--23:56:55--Change column names 
+2021-12-31--23:58:01--Uniting the Dataset 
+2021-12-31--23:58:01--Dropping Null values 
+2021-12-31--23:58:01--Dropping Columns 
+2021-12-31--23:58:01--Change column names 

@@ -1,0 +1,8 @@
+{
+  "Preprocessing":{"unnecessarycolumns": ["url", "address", "name", "phone", "location", "reviews_list", "menu_item", "listed_in(city)"]},
+  "change_col_names": {
+      "approx_cost(for two people)": "cost",
+      "listed_in(type)": "type"
+    },
+  "datatype_transform_columns": {"float": ["cost","rate"]}
+  }
